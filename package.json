@@ -1,0 +1,19 @@
+{
+  "name": "teabot",
+  "version": "1.0.0",
+  "description": "Node.js based discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oelderoth/TeaBot.git"
+  },
+  "author": "Oelderoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oelderoth/TeaBot/issues"
+  },
+  "homepage": "https://github.com/Oelderoth/TeaBot#readme"
+}
