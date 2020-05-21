@@ -105,3 +105,6 @@ dist
 
 # Environment Variables
 .env
+
+# Compliled Typescript Build
+.dist/
